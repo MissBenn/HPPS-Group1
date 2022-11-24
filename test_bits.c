@@ -55,3 +55,4 @@ int main() {
   test_bit_xor(0,1);
   test_bit_xor(0,0);
 }
+
