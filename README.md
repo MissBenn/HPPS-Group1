@@ -8,6 +8,8 @@ Lad være at flytte rundt på denne mappe, når du først har gemt den på din c
 Det er nemlig denne mappe, hvor alle vores filer kommer til at ligge.
 Det vil også sige, at den mindste ændring i denne mappe registrerer Git.
 
+Jeg har lavet en testfil, hvor man kan øve sig lidt.
+
 # GIT ARBEJDSFLOW:
 
 STEP 1: Sørg for, at du er up to date med de seneste ændringer dvs. træk andre gruppemedlemmers ændringer ned på din computer.
