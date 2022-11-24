@@ -67,3 +67,4 @@ struct bit bit_xor(struct bit a, struct bit b) {
 
   return c;
 }
+
