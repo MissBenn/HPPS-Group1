@@ -1,13 +1,14 @@
 # HPPS-Group1
-----------------------------------
-KOM I GANG:
+Velkommen til vores HPPS Git side!
+
+# KOM I GANG:
 
 Clone repository og gem et sted på din computer, som giver mening. 
 Lad være at flytte rundt på denne mappe, når du først har gemt den på din computer :)
 Det er nemlig denne mappe, hvor alle vores filer kommer til at ligge.
 Det vil også sige, at den mindste ændring i denne mappe registrerer Git.
-----------------------------------
-GIT ARBEJDSFLOW:
+
+# GIT ARBEJDSFLOW:
 
 STEP 1: Sørg for, at du er up to date med de seneste ændringer dvs. træk andre gruppemedlemmers ændringer ned på din computer.
 
