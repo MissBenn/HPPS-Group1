@@ -1,1 +1,3 @@
 Velkommen til testfilen :)
+
+Tilføj en hilsen i denne fil, mens du er i din egen branch (Det kan man se og vælge i 'Current Branch'). Commit og push derefter filen til main-branchen, så den er tilgængelig for alle gruppemedlemmer. Men HUSK altid at trække andre ændringer ned, førend du begynder at ændre en fil :)
