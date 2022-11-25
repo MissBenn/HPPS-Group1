@@ -4,13 +4,12 @@
 #include "bits.h"
 
 
-// Gabrielle tester, at det virker
-void test() {
-    printf("Test");
-    exit(1);
+// Test af funktionen bits8_add
+void test_bits8_add() {
+  printf("Test");
 }
 
 int main() {
-  test();
+  test_bits8_add();
 }
 
